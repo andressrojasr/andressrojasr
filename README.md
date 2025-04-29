@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=450&lines=Hi%F0%9F%91%8B%2C+I'am+a+Future+Software+Engineerr.;A+Student+Developer.;Backend+Developer.;FrontEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=450&lines=Hi%F0%9F%91%8B%2C+I'm+a+Future+Software+Engineerr.;A+Student+Developer.;Backend+Developer.;FrontEnd+Developer)](https://git.io/typing-svg)
 
 I'm a passionate Software Development student who loves learning new technologies and building projects.
 I especially enjoy working on the backend with Python, but I also have experience in frontend development using React, Angular, TypeScript, and Ionic.
