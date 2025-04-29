@@ -33,8 +33,10 @@ I especially enjoy working on the backend with Python, but I also have experienc
 ## 📫 How to reach me
 Feel free to connect with me if you want to talk about tech and projects.
 
-📩 personal: andressrojasr@gmail.com
+📩 [personal gmail] andressrojasr@gmail.com
 
-📩 student: aramirez7310@uta.edu.ec
+📩 [student email] aramirez7310@uta.edu.ec
+
+📩 [LinkedIn profile] www.linkedin.com/in/andrés-ramírez-rojas-844a63271
 
 ### "If your dreams don't scare you, then you're not dreaming big enough." 🚀
